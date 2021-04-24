@@ -7,6 +7,11 @@
 	background-color: red;
 	width: 75%;
 }
+
+#banner
+{
+	width:100%;
+}
 #artistboxes
 {
 	width: 60%; 
@@ -14,10 +19,7 @@
 	margin: 0 auto;
 }
 
-#banner
-{
-	width:100%;
-}
+
 
 #rightImgdiv img {
 width: 100%;
